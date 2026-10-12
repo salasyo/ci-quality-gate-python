@@ -1,8 +1,8 @@
 # ci-quality-gate-python
 
-![CI](https://github.com/YOUR_USER/ci-quality-gate-python/actions/workflows/ci.yml/badge.svg)
-![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=YOUR_ORG_ci-quality-gate-python&metric=alert_status)
-![Coverage](https://sonarcloud.io/api/project_badges/measure?project=YOUR_ORG_ci-quality-gate-python&metric=coverage)
+![CI](https://github.com/salasyo/ci-quality-gate-python/actions/workflows/ci.yml/badge.svg)
+![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=salasyo_ci-quality-gate-python&metric=alert_status)
+![Coverage](https://sonarcloud.io/api/project_badges/measure?project=salasyo_ci-quality-gate-python&metric=coverage)
 
 Mini Project 1.4: CI Quality Gate & Reporting Implementation.
 A small Python project whose CI pipeline blocks low-quality or insecure code from reaching `main`.
