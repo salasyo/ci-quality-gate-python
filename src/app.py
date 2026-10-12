@@ -1,5 +1,5 @@
 """Small utility module used to demonstrate CI quality gates."""
-
+import os
 
 def add(a: float, b: float) -> float:
     """Return the sum of two numbers."""
